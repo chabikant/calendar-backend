@@ -21,8 +21,8 @@ This is the backend application for the Dashboard, which handles authentication,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saran-mani/datanexify-backend.git
-   cd datanexify-backend
+   git clone https://github.com/chabikant/calendar-backend.git
+   cd calendar-backend
    ```
 
 2. Install the dependencies:
