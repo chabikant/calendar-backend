@@ -45,6 +45,7 @@ This is the backend application for the Dashboard, which handles authentication,
 2. **Environment Variables**:
    Create a `.env` file in the project root with the following variables:
    ```env
+   MONGODB_URI=your_mongodb_uri
    GOOGLE_CLIENT_ID=your_google_client_id
    GOOGLE_CLIENT_SECRET=your_google_client_secret
    SESSION_SECRET=your_session_secret
